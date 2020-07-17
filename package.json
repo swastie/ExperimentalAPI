@@ -1,0 +1,19 @@
+{
+  "name": "experimentalapi",
+  "version": "1.0.0",
+  "description": "NodeJS Web API for random experiments",
+  "main": "HelloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swastie/ExperimentalAPI.git"
+  },
+  "author": "Mashrur Alam Khan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swastie/ExperimentalAPI/issues"
+  },
+  "homepage": "https://github.com/swastie/ExperimentalAPI#readme"
+}
