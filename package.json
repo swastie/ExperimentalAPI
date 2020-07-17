@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/swastie/ExperimentalAPI/issues"
   },
-  "homepage": "https://github.com/swastie/ExperimentalAPI#readme"
+  "homepage": "https://github.com/swastie/ExperimentalAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
